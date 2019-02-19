@@ -98,6 +98,9 @@ main{
 .bio {
     grid-area: bio;
     font-size: 1.5rem;
+   p{
+       text-align: justify;
+   }
 }
 
 .job-1 {
