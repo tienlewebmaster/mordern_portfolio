@@ -279,7 +279,9 @@ main {
   .projects {
     grid-template-columns: repeat(2, 1fr); }
   h1.lg-heading, h2.lg-heading, h3.lg-heading {
-    font-size: 3rem; } }
+    font-size: 3rem; }
+  .boxes div {
+    font-size: 1.2rem; } }
 
 @media screen and (max-width: 500px) {
   .projects {
